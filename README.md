@@ -1,5 +1,1 @@
-- 👋 Hi, I’m Tristan, a 20-years student.
-- 👀 I’m interested in computer science, cybersecurity and finance.
-- 🌱 I’m currently learning Cybersecurity at Haute-École d'Ingénierie et Gestion d'Yverdon.
-- 💞️ I’m looking to collaborate on different projects concerning cybersecurity or finance. 
-- 📫 How to reach me ? :)
+everywhere but nowhere
